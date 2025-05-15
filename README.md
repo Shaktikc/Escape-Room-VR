@@ -1,1 +1,2 @@
 # Escape-Room-VR
+I learned a lot through this project, and it was a great pleasure to work on it. I was interested in how VR technology works, which inspired me to undertake this project. I believe VR is the future and find the technology both innovative and exciting
